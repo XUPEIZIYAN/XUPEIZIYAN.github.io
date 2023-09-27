@@ -1,0 +1,6 @@
+[book]
+authors = ["XUPEI"]
+language = "en"
+multilingual = false
+src = "src"
+title = "xupei'book"
