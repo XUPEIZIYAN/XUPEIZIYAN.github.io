@@ -3,4 +3,19 @@ authors = ["徐沛"]
 language = "zh"
 multilingual = false
 src = "src"
-title = "徐沛"
+title = "XUPEI's Playground"
+
+[output.html]
+no-section-label = true
+mathjax-support = true
+
+[output.html.fold]
+enable = true
+level = 1
+
+[preprocessor.katex]
+after = ["links"]
+
+[preprocessor.toc]
+marker = "[TOC]"
+
