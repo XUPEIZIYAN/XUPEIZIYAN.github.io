@@ -9,6 +9,9 @@ title = "XUPEI's Playground"
 no-section-label = true
 mathjax-support = true
 theme = "theme"
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+
 
 [output.html.fold]
 enable = true
