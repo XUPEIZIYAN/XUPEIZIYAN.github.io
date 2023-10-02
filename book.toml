@@ -3,13 +3,13 @@ authors = ["徐沛"]
 language = "zh"
 multilingual = false
 src = "src"
-title = "XUPEI's Playground"
+title = "XUPEI's Research"
 
 [output.html]
 no-section-label = true
 mathjax-support = true
 theme = "theme"
-default-theme = "ayu"
+default-theme = "light"
 preferred-dark-theme = "ayu"
 
 
