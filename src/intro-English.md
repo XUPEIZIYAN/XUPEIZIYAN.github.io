@@ -55,13 +55,13 @@
 - 2014-2015  
     - Academic first-class scholarship 
     - First-class scholarship for outstanding students  
-    - **National Scholarship**
+    - <mark>National Scholarship</mark>
 - 2015-2016  
     - Academic third-class scholarship  
     - Third-class scholarship for outstanding students  
     - Civil Architectural Planning Education Foundation Jianlang Second-class Scholarship
 - 2016-2017  
-    - **University Outstanding Graduates**    ·
+    - University Outstanding Graduates
     - <mark>Provincial Outstanding Graduates</mark>
 
 ### Hobbits

@@ -72,7 +72,7 @@
 ### 特长
 写作，陕西省安康市作家协会成员，2016年-2021年担任作协理事
 
-点击[【个人博客】](https://xupeiziyan.github.io)可了解更多信息
+点击[【个人博客】](https://xupeiziyan.github.io/playground)可了解更多信息
 
 扫描微信公众号可查看相关文章
 
