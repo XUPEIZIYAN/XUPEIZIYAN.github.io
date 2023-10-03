@@ -6,7 +6,8 @@
 ---
 - [研究相关](./research/research.md)
     - [《陆家嘴研究》](./research/2019-papers.md)
-    - [《智慧海岛设计》](./research/2018-smartisland.md)
+    - [《街道绿化品质的人本视角测度框架》](./research/2018-streetGreen.md)
+    - [智慧海岛设计研究设计](./research/2018-smartisland.md)
     - [写论文这件事](./research/20190509-写论文这件事.md)
     - [旁听一场论文答辩](./research/20190615-旁听论文.md)
     - [再谈研究生论文写作](./research/20190626-再谈论文写作.md)

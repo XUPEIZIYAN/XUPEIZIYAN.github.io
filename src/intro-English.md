@@ -1,81 +1,70 @@
-# intro
+# Curriculum Vitae
+> I love cities around the world!
 
 ### Education
 
-| 时间 | 学校 | 研究方向 | 获得学位 |
-|:---------|:---------|:---------|:---------|
-| 2012年9月- 2017年7月    | 浙江大学     | 建筑学方向    |学士学位   |
-| 2017年9月- 2020年6月    | 同济大学    | 城市设计方向    |硕士学位   |
+| time | school | Research Direction | GPA | degree |
+|:---------|:---------|:---------|:---------|:---------|
+| 2012- 2017    | Zhejiang University | Architecture    |  GPA:4.59/5.0 | Master's degree   |
+| 2017- 2020   | Tongji University | Urban Design    |  GPA:3.9/4.0  |Bachelor's degree   |
        
 ### Experiences
-- 2021年11月-至今，就职于**科大讯飞-智慧城市-建筑科技部**
-    - 建筑专业总负责人
-    - 自动设计相关12个功能的开发任务
-    - 重点功能-建筑地库设备用房部分的原型开发
+- 2021-NOW，**iFlytek - Smart City - Building Technology Department**
+    - Team leader of Architecture major
+    - Secondary development of Revit, prototype research and development of key basement functions
 
-- 2020年7月-2021年11月，就职于**天华建筑设计有限公司-上海创作中心**
-    - 融创|长沙会展中心A10A13地块（调规及城市设计+A13商业综合体）
-    - 华润|绍兴871厂项目B地块（可售商业，可售商业街）
-    - 世茂|光谷十里星河项目（大型商业街区+公寓）
-    - 中粮|长沙雷锋湖项目（商墅街区+住宅示范区）  
-    - 华远|空港示范区新增商业部分（集装箱建筑改造）
-    - 恒伟|长沙洋湖壹号商业地块设计（办公+公寓+商业街）
+- 2020-2021，**Tianhua Architectural Design Co., Ltd.-Shanghai Creation Center**
+    - Urban Design
+    - Office buildings, commercial complexes, commercial streets, apartments
 
 ### Design\&Research
-* 论文撰写为同济大学优秀论文——[《陆家嘴核心区现状与更新方案室外热环境比较研究》](paper1.pdf)
-* 钱江世纪城宜居创新功能区城市设计，         参与整体路网规划，核心片区导则编写
-* 西安路网加密及街道品质评估，           参与街道POI点密度及生活便利度量化分析
-* 广州城市道路品质分析研究，                       参与街景图像获取、识别与评估
-* 郑州南站及周边地区城市更新，                   参与DepthmapX空间句法路网分析
-* 山东菏泽东明县城区城市更新项目，         参与室外风环境及热舒适度（夏季）分析
-* 沙市洋湖垸南侧片区城市设计，                     参与路网、绿道整合及导则编写
-* 南京东路拓展段城市设计 ，                              参与初期调研及资料准备
-* 2018年8月第二届大数据支持空间规划与设计竞赛工作，获得二等奖
-* 2018年10月第二届大数据支持空间规划与设计竞赛自由投稿，获得一等奖 
-* 同济大学都市建筑设计院（2017-2020）计算性城市设计课程助教，参与SPACE SYNTAX、基础GIS操作、GIS数据平台整合，基础PYTHON操作部分的课件编写
+1. Comparative study on the outdoor thermal environment in the core area of Lujiazui[more information](paper1.pdf)
+2. Water circulation system research and urban design in North-End [more information](./research/2018-smartisland.md)
+3. he 2nd Big Data Supported Space Planning and Design Competition[more information](./research/2018-smartisland.md)
+4. Xi'an road network encryption and street quality assessment[more information](./research/2018-smartisland.md)
+5. Analysis and Research on Urban Road Quality in Guangzhou[more information](./research/2018-smartisland.md)
+6. Urban renewal of Zhengzhou South Railway Station and surrounding areas[more information](./research/2018-smartisland.md)
+7. Urban renewal project in Dongming County, Heze, Shandong[more information](./research/2018-smartisland.md)
+8. Teaching Assistant for Computational Urban Design Course[more information](./research/2018-smartisland.md)
 
 
 ### Skills 
-- [x] 基于Python的城市数据爬取，数据分析等
-- [x] 基于C# 的Grasshopper原型设计
-- [x] ArcGIS，QGIS，SDNA in GIS路网分析；
-- [x] 空间句法分析软件；
-- [x] ENVI-met城市微环境建模分析工具
-- [x] Revit，Rhino, Grasshopper，AutoCAD，天正，Sketch-Up等设计软件
-- [x] 使用Latex进行论文排版
+- [x] Python
+- [x] C# , Grasshopper
+- [x] ArcGIS，QGIS，SDNA in GIS；
+- [x] DepthmapX；
+- [x] ENVI-met
+- [x] Revit，Rhino, Grasshopper，AutoCAD，Tianzheng，Sketch-Up
+- [x] $$\LaTeX$$
 
 ### International exchange
 
 | time | school | nation | topic |
 |---------|---------|---------|
-| 2015年9月--2016年2月 | Aalto university   |  Finland | 专业学习    |
-| 2017年2月--2017年2月 | University of Sydney    |  Australia  |领导力培训    |
-| 2018年2月----2018年7月 | UNC Charlotte    |  USA  |联合设计    |
-| 2018年9月----2019年2月 | Polytechnic of Madrid    | Spain  | 专业学习    |
+| 2015--2016 | Aalto university   |  Finland | architectural design, Wood properties, Regional design    |
+| 2017 | University of Sydney    |  Australia  |eadership training, Environmental protection inspection    |
+| 2018| UNC Charlotte    |  USA  |Smart city joint design    |
+| 2018--2019 | Polytechnic of Madrid    | Spain  | Urban Design, Spanish-A1    |
                 
 
-### horner
+### Hornor
 - 2013-2014  
-    - 学业二等奖学金    
-    - 优秀学生二等奖学金   
-    - 土木建筑规划教育基金会奖学金一等奖
+    - Academic second-class scholarship    
+    - Second-class scholarship for outstanding students   
+    - Civil Architecture Planning Education Foundation Scholarship First Prize
 - 2014-2015  
-    - 学业一等奖学金 
-    - 优秀学生一等奖学金  
-    - **本科生国家奖学金**
+    - Academic first-class scholarship 
+    - First-class scholarship for outstanding students  
+    - **National Scholarship**
 - 2015-2016  
-    - 学业三等奖学金  
-    - 优秀学生三等奖学金
-    - 土木建筑规划教育基金会坚朗二等奖学金
+    - Academic third-class scholarship  
+    - Third-class scholarship for outstanding students  
+    - Civil Architectural Planning Education Foundation Jianlang Second-class Scholarship
 - 2016-2017  
-    - **浙江大学优秀毕业生**    
-    - <mark>浙江省优秀毕业生</mark>
+    - **University Outstanding Graduates**    ·
+    - <mark>Provincial Outstanding Graduates</mark>
 
 ### Hobbits
-写作，陕西省安康市作家协会成员，2016年-2021年担任作协理事
+Writting, Member of Ankang Writers Association of Shaanxi Province, Served as associate director of the Writers Association from 2016 to 2021
 
-点击[【个人博客】](https://xupeiziyan.github.io)可了解更多信息
-
-扫描微信公众号可查看相关文章
-
-![微信二维码](QR.jpg)
+[【BLOG】](https://xupeiziyan.github.io/playground)
