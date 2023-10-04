@@ -23,3 +23,6 @@ after = ["links"]
 [preprocessor.toc]
 marker = "[TOC]"
 
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "2.0.2" # do not edit: managed by `mdbook-admonish install`
