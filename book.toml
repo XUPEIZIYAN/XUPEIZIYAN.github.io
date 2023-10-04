@@ -11,6 +11,7 @@ mathjax-support = true
 theme = "theme"
 default-theme = "light"
 preferred-dark-theme = "ayu"
+additional-css = ["./mdbook-admonish.css"]
 
 
 [output.html.fold]
