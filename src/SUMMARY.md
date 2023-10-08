@@ -5,8 +5,8 @@
 
 ---
 - [研究相关](./research/research.md)
-    - [《陆家嘴研究》](./research/2019-papers.md)
-    - [《街道绿化品质的人本视角测度框架》](./research/2018-streetGreen.md)
+    - [上海陆家嘴核心区现状与更新方案室外热环境比较研究](./research/2019-papers.md)
+    - [街道绿化品质的人本视角测度框架](./research/2018-streetGreen.md)
     - [智慧海岛设计研究设计](./research/2018-smartisland.md)
     - [写论文这件事](./research/20190509-写论文这件事.md)
     - [旁听一场论文答辩](./research/20190615-旁听论文.md)
@@ -18,7 +18,7 @@
 ---
 - [工作相关](./work/work.md)
     - [从“计算几何”说起](./work/从“计算几何”说起.md)
-    - [工作随笔](./work/20230521-随笔.md)
+    - [工作杂记](./work/20230521-杂记.md)
     - [关于工作工具的思考](./work/20230415-工具.md)
     - [从重装win11说起](./work/20221015-win11.md)
     - [几点工作心得](./work/20221005-工作心得.md)
