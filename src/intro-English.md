@@ -1,12 +1,11 @@
 # Curriculum Vitae
-> I love cities around the world!
 
 ### Education
 
-| time | school | Research Direction | GPA | degree |
+| Period | School | Major | GPA | Degree |
 |:---------|:---------|:---------|:---------|:---------|
-| 2012- 2017    | Zhejiang University | Architecture    |  GPA:4.59/5.0 | Master's degree   |
-| 2017- 2020   | Tongji University | Urban Design    |  GPA:3.9/4.0  |Bachelor's degree   |
+| 2012- 2017    | Zhejiang University | Architecture    |  4.59/5.0 | Master's degree   |
+| 2017- 2020   | Tongji University | Urban Design    |  3.9/4.0  |Bachelor's degree   |
        
 ### Experiences
 - 2021-NOW，**iFlytek - Smart City - Building Technology Department**
@@ -18,14 +17,15 @@
     - Office buildings, commercial complexes, commercial streets, apartments
 
 ### Design\&Research
-1. Comparative study on the outdoor thermal environment in the core area of Lujiazui[more information](paper1.pdf)
-2. Water circulation system research and urban design in North-End [more information](./research/2018-smartisland.md)
-3. he 2nd Big Data Supported Space Planning and Design Competition[more information](./research/2018-smartisland.md)
-4. Xi'an road network encryption and street quality assessment[more information](./research/2018-smartisland.md)
-5. Analysis and Research on Urban Road Quality in Guangzhou[more information](./research/2018-smartisland.md)
-6. Urban renewal of Zhengzhou South Railway Station and surrounding areas[more information](./research/2018-smartisland.md)
-7. Urban renewal project in Dongming County, Heze, Shandong[more information](./research/2018-smartisland.md)
-8. Teaching Assistant for Computational Urban Design Course[more information](./research/2018-smartisland.md)
+1. Comparative study on the outdoor thermal environment in the core area of Lujiazui.[**「more information」**](./research/2019-papers.md)
+2. Water circulation system research and urban design in North-End.[**「more information」**](./research/2018-streetGreen.md)
+3. he 2nd Big Data Supported Space Planning and Design Competition.[**「more information」**](./research/2018-smartisland.md)
+4. Water circulation system research and urban design in North-End.
+5. Xi'an road network encryption and street quality assessment.
+6. Analysis and Research on Urban Road Quality in Guangzhou.
+7. Urban renewal of Zhengzhou South Railway Station and surrounding areas.
+8. Urban renewal project in Dongming County, Heze, Shandong.
+9. Teaching Assistant for Computational Urban Design Course.
 
 
 ### Skills 
@@ -35,16 +35,17 @@
 - [x] DepthmapX；
 - [x] ENVI-met
 - [x] Revit，Rhino, Grasshopper，AutoCAD，Tianzheng，Sketch-Up
-- [x] $$\LaTeX$$
+- [x] LaTeX
 
 ### International exchange
 
-| time | school | nation | topic |
-|---------|---------|---------|
-| 2015--2016 | Aalto university   |  Finland | architectural design, Wood properties, Regional design    |
-| 2017 | University of Sydney    |  Australia  |eadership training, Environmental protection inspection    |
-| 2018| UNC Charlotte    |  USA  |Smart city joint design    |
-| 2018--2019 | Polytechnic of Madrid    | Spain  | Urban Design, Spanish-A1    |
+
+| Period| School | Nation | Topic |
+|: --------- | :--------- | :--------- | :--------- |
+| 2015--2016 | Aalto university   |  Finland  | architectural design, Wood properties, Regional design    |
+| 2017 | University of Sydney    |  Australia  | leadership training, Environmental protection inspection     |
+| 2018 | UNC Charlotte    |  USA  | Smart city joint design    |
+| 2018--2019 | Polytechnic of Madrid    | Spain  | Urban Design, Spanish-A1     |
                 
 
 ### Hornor
@@ -67,4 +68,4 @@
 ### Hobbits
 Writting, Member of Ankang Writers Association of Shaanxi Province, Served as associate director of the Writers Association from 2016 to 2021
 
-[【BLOG】](https://xupeiziyan.github.io/playground)
+Go to my [「BLOG」](https://xupeiziyan.github.io/playground) to know more...
