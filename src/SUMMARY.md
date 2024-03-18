@@ -30,5 +30,5 @@
 
 ---
 # 技术积累
-- [如何用python实现逻辑回归的二分类问题](./equipment/ml/20240306-logisticRegression.md)
+- [如何用python实现二元分类的逻辑回归](./equipment/ml/20240306-logisticRegression.md)
     
