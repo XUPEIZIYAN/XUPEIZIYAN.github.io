@@ -15,6 +15,11 @@
     - [关于ArcGIS](./research/20190723-ArcGIS.md)
     - [给ENVI-met的几点建议](./research/20220522-给met的建议.md)
 
+
+---
+# 技术积累
+- [如何用python实现二元分类的逻辑回归](./equipment/ml/20240306-logisticRegression.md)
+
 ---
 - [工作相关](./work/work.md)
     - [从“计算几何”说起](./work/从“计算几何”说起.md)
@@ -28,7 +33,5 @@
     - [一点关于编程的理解](./work/20220325-编程思考.md)
 
 
----
-# 技术积累
-- [如何用python实现二元分类的逻辑回归](./equipment/ml/20240306-logisticRegression.md)
+
     
